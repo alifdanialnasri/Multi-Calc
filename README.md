@@ -21,7 +21,7 @@ MultiCalc is a versatile command-line calculator program written in C that offer
 
 1. **Clone the Repository:**
 
-https://github.com/alifdanialnasri/Multi-Calc.git
+https://github.com/your-username/Multi-Calc.git
 
 
 2. **Compile the Program:**
